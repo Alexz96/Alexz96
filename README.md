@@ -1,4 +1,6 @@
-### Hi there 👋
+### Olá 👋
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexz96)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Alexz96&show_icons=true)
 
